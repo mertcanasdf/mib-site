@@ -275,25 +275,29 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 38px;
+  width: auto;
+  min-width: 38px;
   height: 38px;
-  padding: 0;
-  border: 1px solid var(--border);
-  border-radius: 50%;
-  background: var(--gray-50);
-  color: var(--primary);
+  gap: 8px;
+  padding: 0 12px;
+  border: 1px solid transparent;
+  border-radius: var(--r-btn);
+  background: #eef1f4;
+  color: #25313d;
   cursor: pointer;
   font-family: var(--font);
+  font-size: 13px;
+  font-weight: 600;
   line-height: 1;
   text-decoration: none;
-  transition: background .2s ease, border-color .2s ease, color .2s ease, transform .2s ease;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .12);
+  transition: filter .2s ease, transform .2s ease;
 }
 
 .article-share__action:hover,
 .article-share__action:focus-visible {
-  border-color: currentColor;
-  filter: saturate(1.08) brightness(.98);
-  outline: 2px solid currentColor;
+  filter: brightness(.93) saturate(1.08);
+  outline: 2px solid #25313d;
   outline-offset: 2px;
 }
 
@@ -312,69 +316,70 @@
 }
 
 .article-share__action--whatsapp {
-  border-color: #bdeccd;
-  background: #edfbf2;
-  color: #128c4b;
+  background: #25d366;
+  color: #fff;
 }
 
 .article-share__action--facebook {
-  border-color: #c8d9fb;
-  background: #eef4ff;
-  color: #1877f2;
+  background: #1877f2;
+  color: #fff;
 }
 
 .article-share__action--x {
-  border-color: #d5dbe3;
-  background: #f1f3f6;
-  color: #111827;
+  background: #111;
+  color: #fff;
 }
 
 .article-share__action--linkedin {
-  border-color: #c5e4f8;
-  background: #edf8ff;
-  color: #0a66c2;
+  background: #0a66c2;
+  color: #fff;
 }
 
 .article-share__action--instagram {
-  border-color: #e8cde0;
-  background: linear-gradient(135deg, #fff0f6, #f2edff 58%, #fff7e9);
-  color: #b52f82;
+  background: linear-gradient(135deg, #feda75 0%, #fa7e1e 32%, #d62976 64%, #962fbf 82%, #4f5bd5 100%);
+  color: #fff;
 }
 
 .article-share__action--telegram {
-  border-color: #c4e5f4;
-  background: #edf9ff;
-  color: #1289bd;
+  background: #229ed9;
+  color: #fff;
 }
 
 .article-share__action--pinterest {
-  border-color: #f2cbd0;
-  background: #fff0f2;
-  color: #bd081c;
+  background: #e60023;
+  color: #fff;
 }
 
 .article-share__action--reddit {
-  border-color: #f4d2bd;
-  background: #fff4ec;
-  color: #d84315;
+  background: #ff4500;
+  color: #fff;
 }
 
 .article-share__action--email {
-  border-color: #d8dce4;
-  background: #f5f6f8;
-  color: #586174;
+  background: #586174;
+  color: #fff;
 }
 
 .article-share__action--copy {
-  border-color: #c8e6cf;
-  background: #effaf1;
-  color: #23833a;
+  background: #23833a;
+  color: #fff;
 }
 
 .article-share__action--native {
-  border-color: #d8dce4;
-  background: #f5f6f8;
-  color: #586174;
+  background: #374151;
+  color: #fff;
+}
+
+.article-share__action-label {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+  white-space: nowrap;
+  border: 0;
 }
 
 .article-share__more {
@@ -385,6 +390,8 @@
 .article-share__more-toggle {
   cursor: pointer;
   list-style: none;
+  background: #eef1f4;
+  color: #25313d;
 }
 
 .article-share__more-toggle::-webkit-details-marker {
@@ -392,8 +399,9 @@
 }
 
 .article-share__more[open] > .article-share__more-toggle {
-  border-color: var(--primary);
-  outline: 2px solid rgba(73, 81, 72, .18);
+  background: #25313d;
+  color: #fff;
+  outline: 2px solid rgba(37, 49, 61, .25);
   outline-offset: 2px;
 }
 
@@ -423,21 +431,11 @@
 }
 
 .article-share__more-menu .article-share__action-label {
-  position: static;
-  width: auto;
-  height: auto;
-  padding: 0;
-  margin: 0;
-  overflow: visible;
-  clip: auto;
-  white-space: nowrap;
-  border: 0;
   font-size: 13px;
   font-weight: 500;
 }
 
 .article-share__action--copy.is-copied {
-  border-color: var(--green);
   background: var(--green);
   color: #fff;
 }
@@ -454,18 +452,7 @@
   display: none;
 }
 
-.article-share__action-label {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
-}
-
+/* Keep the primary actions readable on narrow screens while allowing them to wrap. */
 @media (max-width: 600px) {
   .article-share {
     margin-top: 40px;
@@ -477,8 +464,14 @@
   }
 
   .article-share__action {
-    width: 36px;
-    height: 36px;
+    min-height: 36px;
+    padding: 0 10px;
+    font-size: 12px;
+  }
+
+  .article-share__icon {
+    width: 16px;
+    height: 16px;
   }
 
   .article-share__more-menu {
