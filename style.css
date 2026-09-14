@@ -236,21 +236,22 @@
   }
 }
 
-/* Article sharing keeps every channel visible without adding a heavy toolbar. */
+/* A quiet inline share row after the article, not a hero toolbar. */
 .article-share {
-  margin-top: 28px;
-  padding-top: 20px;
-  border-top: 1px solid rgba(255, 255, 255, .16);
+  margin-top: 48px;
+  padding: 18px 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
 }
 
 .article-share__label {
-  display: block;
-  margin-bottom: 12px;
-  color: rgba(255, 255, 255, .72);
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: .08em;
-  text-transform: uppercase;
+  margin: 0 0 12px;
+  color: var(--gray-500);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 .article-share__actions {
@@ -262,26 +263,25 @@
 .article-share__action {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
-  min-height: 36px;
-  padding: 7px 11px;
-  border: 1px solid rgba(255, 255, 255, .22);
-  border-radius: var(--r-btn);
-  background: rgba(255, 255, 255, .06);
-  color: #fff;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--base);
+  color: var(--gray-500);
   cursor: pointer;
   font-family: var(--font);
-  font-size: 12px;
-  font-weight: 700;
   line-height: 1;
-  white-space: nowrap;
+  text-decoration: none;
   transition: background .2s ease, border-color .2s ease, color .2s ease, transform .2s ease;
 }
 
 .article-share__action:hover,
 .article-share__action:focus-visible {
-  border-color: rgba(255, 255, 255, .55);
-  background: #fff;
+  border-color: var(--gray-700);
+  background: var(--tertiary);
   color: var(--main);
   outline: none;
 }
@@ -296,12 +296,28 @@
   justify-content: center;
   width: 20px;
   height: 20px;
-  border: 1px solid currentColor;
-  border-radius: 50%;
   font-size: 9px;
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: -.03em;
   line-height: 1;
+}
+
+.article-share__action--facebook .article-share__glyph,
+.article-share__action--x .article-share__glyph {
+  font-size: 13px;
+}
+
+.article-share__action--linkedin .article-share__glyph {
+  font-size: 10px;
+}
+
+.article-share__action--copy .article-share__glyph {
+  font-size: 16px;
+}
+
+.article-share__action--native .article-share__glyph {
+  font-size: 12px;
+  letter-spacing: -.1em;
 }
 
 .article-share__action--copy.is-copied {
@@ -310,22 +326,42 @@
   color: #fff;
 }
 
-.article-share__action[hidden] {
+.article-share__status {
+  margin: 10px 0 0;
+  color: var(--green);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.article-share__action[hidden],
+.article-share__status[hidden] {
   display: none;
+}
+
+.article-share__action-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 @media (max-width: 600px) {
   .article-share {
-    margin-top: 24px;
-    padding-top: 18px;
+    margin-top: 40px;
+    padding: 16px 0;
   }
 
   .article-share__actions {
-    gap: 7px;
+    gap: 6px;
   }
 
   .article-share__action {
-    flex: 1 1 auto;
-    justify-content: center;
+    width: 32px;
+    height: 32px;
   }
 }
