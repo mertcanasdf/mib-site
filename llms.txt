@@ -6,6 +6,7 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 
 ## Ana sayfalar
 
+- [Yayın ilkeleri](https://www.muhammedikbalbakirci.com/yayin-ilkeleri): Kaynaklar, kanıtın sınırları, yazar ve tarih bilgisi, düzeltme bildirimi
 - [Hakkında](https://www.muhammedikbalbakirci.com/hakkinda): Eğitim, kariyer ve görevler
 - [Longevity: Sağlıklı Yaş Almanın 6 Alanı](https://www.muhammedikbalbakirci.com/longevity): Longevity nedir, 6 alan ve hücresel temeller
 - [Beslenme ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/beslenme): Beslenme alanının özeti ve tüm yazıları
