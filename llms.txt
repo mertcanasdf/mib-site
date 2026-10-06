@@ -1,0 +1,91 @@
+# Dr. Muhammed İkbal Bakırcı
+
+> Hekim; 2022'den bu yana VM Medical Park Bursa Hastanesi Başhekimi. Bu sitede longevity (sağlıklı yaşlanma), beslenme, hareket, uyku, zihin sağlığı ve medikal estetik üzerine Türkçe, kaynaklı ve bilgilendirici içerikler yer alır. İçerikler genel bilgilendirme amaçlıdır; tanı ve tedavi yerine geçmez.
+
+Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD, CDC, NIH gibi birincil kaynaklar).
+
+## Ana sayfalar
+
+- [Hakkında](https://www.muhammedikbalbakirci.com/hakkinda): Eğitim, kariyer ve görevler
+- [Longevity: Sağlıklı Yaş Almanın 6 Alanı](https://www.muhammedikbalbakirci.com/longevity): Longevity nedir, 6 alan ve hücresel temeller
+- [Beslenme ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/beslenme): Beslenme alanının özeti ve tüm yazıları
+- [Hareket ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/hareket): Kardiyo, kuvvet ve denge; alanın tüm yazıları
+- [Uyku ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/uyku): Uyku alanının özeti ve tüm yazıları
+- [Zihin ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/zihin): Stres, kaygı ve zihinsel iyi oluş; alanın tüm yazıları
+- [Sosyal ilişkiler ve sağlıklı yaşlanma](https://www.muhammedikbalbakirci.com/longevity/sosyal-iliskiler): Sosyal bağlantı, yaşam amacı ve şükran; alanın tüm yazıları
+- [Skin Longevity ve Medikal Estetik](https://www.muhammedikbalbakirci.com/medikal-estetik): Botoks, dolgu, altın iğne, PRP ve mezoterapi hakkında bilgilendirici rehber
+- [Tüm makaleler](https://www.muhammedikbalbakirci.com/blog): Kategorilere göre tüm yazılar
+- [Sağlık testleri](https://www.muhammedikbalbakirci.com/quizler): Farkındalık amaçlı ölçekler; tanı koymaz
+- [İletişim](https://www.muhammedikbalbakirci.com/iletisim): Randevu, iş birliği, akademik ve medya talepleri
+
+## Longevity Bilimi
+
+- [Biyolojik Yaş Nasıl Ölçülür? Takvim Yaşıyla Farkı](https://www.muhammedikbalbakirci.com/blog/biyolojik-yas-nasil-olculur): Biyolojik yaş kavramı ne anlama gelir, hangi ölçümlerle değerlendirilir ve test sonuçları sağlık kararlarında nasıl yorumlanmalıdır?
+- [Mitokondri Sağlığı Nasıl Desteklenir?](https://www.muhammedikbalbakirci.com/blog/mitokondri-sagligi-nasil-desteklenir): Mitokondrilerin enerji üretimindeki rolü, hücresel stresle ilişkisi ve mitokondri sağlığını destekleyen yaşam tarzı temelleri.
+- [NMN ve NAD+: Hücresel Yaşlanma Hakkında Ne Biliyoruz?](https://www.muhammedikbalbakirci.com/blog/nmn-nad-yaslanma): NMN nedir, NAD+ yaşlanmayla neden ilişkilendiriliyor? NMN takviyesiyle yapılan insan çalışmaları neyi gösterdi, neyi henüz göstermedi?
+- [Otofaji Nedir ve Nasıl Aktive Edilir?](https://www.muhammedikbalbakirci.com/blog/otofaji-nedir): Hücrelerin hasarlı bileşenlerini parçalayıp geri dönüştürdüğü otofaji mekanizması nedir ve onu desteklediği düşünülen yaklaşımlar nelerdir?
+- [SIRT6 Proteini ve Epigenetik Yaşlanma: 2026 Fare Çalışması Ne Gösterdi?](https://www.muhammedikbalbakirci.com/blog/sirt6-proteini-epigenetik-genclesme): SIRT6 nedir? 2026'da yayımlanan fare çalışmasında SIRT6'yı artırmak yaşlı karaciğerde neyi değiştirdi; bulgular insanlar için ne anlama geliyor?
+- [Telomer Sağlığını Destekleyen 7 Yaşam Tarzı Alışkanlığı](https://www.muhammedikbalbakirci.com/blog/telomerleri-korumak): Kromozom uçlarındaki telomerlerin kısalma hızı yaşam tarzı faktörleriyle ilişkilidir; araştırmalarda telomer sağlığıyla ilişkilendirilen 7 alışkanlık.
+
+## Beslenme
+
+- [Aralıklı Orucun Longevity Üzerindeki Etkisi](https://www.muhammedikbalbakirci.com/blog/aralikli-oruc-longevity): Aralıklı oruç nedir, 16:8 gibi protokoller nasıl uygulanır? Metabolik sağlık ve longevity üzerine insan çalışmaları ne gösteriyor, kimler dikkat etmeli?
+- [D3 ve K2 Birlikte Kullanılır mı? Kanıtlar ve Güvenlik](https://www.muhammedikbalbakirci.com/blog/d3-k2-birlikte-kullanilir-mi): D3 ve K2 vitaminleri ne işe yarar, birlikte kullanım hakkında hangi iddialar kanıtlıdır ve kan sulandırıcı kullananlar nelere dikkat etmelidir?
+- [D3 Vitamini Eksikliği: Belirtiler, Kan Düzeyleri ve Yaşlanmayla İlişkisi](https://www.muhammedikbalbakirci.com/blog/d3-vitamini-eksikligi): D vitamini eksikliği neden yaygın, hangi belirtilere yol açabilir, kan düzeyleri nasıl yorumlanır ve takviyeler hakkında kanıtlar ne söylüyor?
+- [İnsülin Direnci Belirtileri: Nasıl Anlaşılır ve Nasıl Değerlendirilir?](https://www.muhammedikbalbakirci.com/blog/insulin-direnci-belirtileri): İnsülin direnci nedir, hangi belirtiler eşlik edebilir, tanı için hangi testler kullanılır ve yaşam tarzı planı nasıl kurulabilir?
+- [Lifli Beslenme ve Mikrobiyota: Bağırsak Sağlığı İçin Temel Yaklaşım](https://www.muhammedikbalbakirci.com/blog/lifli-beslenme-ve-mikrobiyota): Lif türleri bağırsak mikrobiyotasını nasıl etkiler, lif tüketimi nasıl kademeli artırılır ve şişkinlik yaşayanlar nelere dikkat etmelidir?
+- [Magnezyum Eksikliği Belirtileri ve Magnezyum Kaynakları](https://www.muhammedikbalbakirci.com/blog/magnezyum-eksikligi): Magnezyum eksikliği hangi belirtilere yol açabilir, kimlerde risk artar, hangi besinlerde magnezyum bulunur ve takviye ne zaman düşünülür?
+- [Mavi Bölge Diyeti: Uzun Yaşayan Toplulukların Beslenme Alışkanlıkları](https://www.muhammedikbalbakirci.com/blog/mavi-bolge-diyeti): Dünyanın beş mavi bölgesinde 100 yıl ve üzeri yaşayan insanların ortak beslenme ilkeleri ve bunları hayatınıza nasıl taşıyabileceğiniz.
+- [Omega-3 Ne İşe Yarar? Besinler, Takviyeler ve Güvenlik](https://www.muhammedikbalbakirci.com/blog/omega-3-ne-ise-yarar): ALA, EPA ve DHA arasındaki farklar, omega-3 kaynakları, takviye seçerken dikkat edilecekler ve kan sulandırıcı kullananlar için uyarılar.
+- [Polifenoller ve Sağlık: Hangi Besinlerde Bulunur?](https://www.muhammedikbalbakirci.com/blog/polifenoller-ve-saglik): Polifenol nedir, hangi bitkisel besinlerde bulunur ve polifenol takviyeleri hakkında kanıtları yorumlarken nelere dikkat etmek gerekir?
+- [Yaşlanmada Protein İhtiyacı: Ne Kadar ve Nasıl Alınır?](https://www.muhammedikbalbakirci.com/blog/protein-ihtiyaci-yaslanma): Yaş ilerledikçe protein alımı neden önem kazanır, öğünlere nasıl dağıtılabilir ve böbrek hastalığında nelere dikkat edilmelidir?
+
+## Hareket
+
+- [Bölge 2 Kardiyo: Uzun Ömürlülük için En İyi Egzersiz mi?](https://www.muhammedikbalbakirci.com/blog/bolge-2-kardiyo): Zone 2 (bölge 2) kardiyo nedir, kalp hızı ve konuşma testiyle nasıl belirlenir? Mitokondri, metabolik sağlık ve HIIT ile karşılaştırma üzerine kanıtlar.
+- [Denge Egzersizleri ve Yaşlanma: Düşme Riskini Azaltmaya Yardımcı Yaklaşım](https://www.muhammedikbalbakirci.com/blog/denge-egzersizleri-yaslanma): Denge neden yaşla değişebilir, evde hangi temel egzersizler yapılabilir ve düşme riski olan kişilerde güvenlik nasıl sağlanır?
+- [Direnç Antrenmanı ve Sağlıklı Yaşlanma](https://www.muhammedikbalbakirci.com/blog/direnc-antrenmani-yaslanma): Direnç egzersizi yaşlanma sürecinde kas gücü, denge ve günlük işlevi nasıl destekler? Başlangıç için güvenli ve sürdürülebilir plan.
+- [Egzersiz Sonrası Toparlanma: Uyku, Beslenme ve Yük Yönetimi](https://www.muhammedikbalbakirci.com/blog/egzersiz-sonrasi-toparlanma): Egzersiz sonrası toparlanma için uyku, sıvı, beslenme ve antrenman yükü nasıl dengelenir? Kas ağrısı, dinlenme günleri ve aşırı yüklenme belirtileri.
+- [Günlük Yürüyüşün Sağlığa Etkileri: Ne Kadar Yürümeli?](https://www.muhammedikbalbakirci.com/blog/gunluk-yuruyus-sagligi): Günlük yürüyüşün kalp-damar sağlığı, hareket kapasitesi ve ruh haliyle ilişkisi; süre, tempo ve sürdürülebilirlik için pratik öneriler.
+- [Hareketsizlik ve Metabolik Sağlık: Gün İçindeki Oturma Süresini Azaltmak](https://www.muhammedikbalbakirci.com/blog/hareketsizlik-ve-metabolik-saglik): Uzun süre oturmak metabolik sağlığı nasıl etkileyebilir, çalışma gününde hareket nasıl artırılır ve küçük molalar neden değerlidir?
+- [Kas Kütlesi ve Yaşlanma: Gücü Korumak İçin Kanıta Dayalı Yaklaşım](https://www.muhammedikbalbakirci.com/blog/kas-kutlesi-ve-yaslanma): Yaşla birlikte kas kütlesi ve kuvvet neden azalır, bunu izlemek için hangi göstergeler kullanılır ve günlük hayatta neler yapılabilir?
+- [Kavrama Gücü Sağlık Hakkında Ne Söyler?](https://www.muhammedikbalbakirci.com/blog/kavrama-gucu-ve-saglik): Kavrama gücü neden ölçülür, hangi durumlarda anlamlıdır ve el dinamometresi sonucunu yaş ve klinik tabloyla birlikte nasıl yorumlamak gerekir?
+- [Kreatin ve Yaşlanma: Kas Gücü İçin Ne Kadar Kanıt Var?](https://www.muhammedikbalbakirci.com/blog/kreatin-ve-yaslanma): Kreatin monohidrat yaşlanmada kas gücü ve antrenmanla nasıl ilişkilidir, hangi kişiler dikkatli olmalı ve ürün seçerken neye bakılmalıdır?
+- [VO₂max ve Longevity: Aerobik Kapasite Neyi Gösterir?](https://www.muhammedikbalbakirci.com/blog/vo2max-ve-longevity): VO₂max nedir, yaşla birlikte neden değişir ve aerobik kapasiteyi güvenli biçimde desteklemek için hangi egzersiz alışkanlıkları önemlidir?
+
+## Uyku
+
+- [Ekran Kullanımı ve Uyku: Telefonu Ne Zaman Bırakmalı?](https://www.muhammedikbalbakirci.com/blog/ekran-kullanimi-ve-uyku): Telefon, tablet ve bilgisayar kullanımı uyku rutinini nasıl etkileyebilir? Mavi ışık, içerik ve bildirimleri birlikte ele alan pratik öneriler.
+- [Glimfatik Sistem: Uyku Sırasında Beyin Nasıl Temizlenir?](https://www.muhammedikbalbakirci.com/blog/uyku-bozukluklari-ve-glymphatic-temizlik): Yetersiz uykunun beynin atık temizleme sistemi (glimfatik sistem) ve büyüme hormonu salınımı üzerindeki etkileri; kaliteli uyku için kanıta dayalı öneriler.
+- [Sirkadiyen Ritim ve Uyku Düzeni Nasıl Desteklenir?](https://www.muhammedikbalbakirci.com/blog/sirkadiyen-ritim-ve-uyku): Sirkadiyen ritim nedir, ışık ve uyku saatleri biyolojik saati nasıl etkiler ve günlük düzeni güçlendirmek için neler yapılabilir?
+- [Uyku Kalitesi Nasıl Artırılır? Uygulanabilir Uyku Hijyeni Rehberi](https://www.muhammedikbalbakirci.com/blog/uyku-kalitesi-nasil-artirilir): Uykuya dalmayı ve uykuyu sürdürmeyi destekleyen alışkanlıklar, yatak odası düzeni ve profesyonel yardım gerektiren belirtiler.
+
+## Zihin & Sosyal Yaşam
+
+- [Dijital Tükenmişlik Nedir? Ekran Yükünü Azaltma Rehberi](https://www.muhammedikbalbakirci.com/blog/dijital-tukenmislik): Sürekli bildirim, çevrim içi çalışma ve bilgi akışının yarattığı dijital tükenmişlik nasıl fark edilir, sınırlar nasıl kurulabilir?
+- [Doğada Geçirilen Zaman ve Zihinsel Toparlanma](https://www.muhammedikbalbakirci.com/blog/doga-ve-zihin-sagligi): Doğada geçirilen zaman stresi ve zihinsel yorgunluğu nasıl etkiler? Orman banyosu (shinrin-yoku), kortizol ve dikkat üzerine araştırmalar ne söylüyor?
+- [Kitap Okumak Beyni ve Bilişsel Yaşlanmayı Nasıl Etkiler?](https://www.muhammedikbalbakirci.com/blog/kitap-okuma-ve-beyin): Kitap okumak beyni nasıl etkiler? Beyin bağlantıları, empati ve bilişsel rezerv üzerine çalışmalar ve okumanın sağlıklı yaşlanmadaki yeri.
+- [Kortizol ve Yaşlanma: Kronik Stresin Gizli Bedeli](https://www.muhammedikbalbakirci.com/blog/kortizol-yaslanma): Kronik yüksek kortizol kas kaybı, bilişsel etkiler ve telomer kısalmasıyla ilişkilendiriliyor. Stres yanıtını dengelemeye yardımcı kanıta dayalı adımlar.
+- [Kronik Anksiyete ve Obsesyon: Zihinsel Dengeyi ve Hücresel Yaşlanmayı Nasıl Etkiler?](https://www.muhammedikbalbakirci.com/blog/anksiyete-ve-obsesyonun-fizyolojisi): Anksiyete ve obsesyonun HPA aksı, amigdala ve telomerler üzerindeki etkileri; zihinsel dayanıklılık ve stres yönetimi için bilimsel yaklaşım.
+- [Müzik Dinlemek Stresi Nasıl Etkiler? Kortizol ve Kanıtlar](https://www.muhammedikbalbakirci.com/blog/muzik-ve-stres-kortizol): Müzik dinlemek stresi ve kortizolü nasıl etkiler? Meta-analizler, ameliyat öncesi kaygı çalışmaları ve rahatlamak için hangi müziğin seçilebileceği.
+- [Sanat Üretmek Beyin Sağlığını Nasıl Etkiler?](https://www.muhammedikbalbakirci.com/blog/sanat-ve-beyin-sagligi): Sanat üretiminin beyin sağlığı, nöroplastisite ve stres yönetimi üzerindeki etkilerini inceleyen bilimsel longevity rehberi.
+- [Sosyal Bağlantı ve Uzun Ömür: İlişkilerin Sağlıktaki Yeri](https://www.muhammedikbalbakirci.com/blog/sosyal-baglanti-ve-uzun-omur): Sosyal bağların stres, günlük işlev ve sağlıklı yaşlanma ile ilişkisi; yalnızlık hissini azaltmak için uygulanabilir küçük adımlar.
+- [Şükran Pratiği Beyni ve Ruh Hâlini Nasıl Etkiler?](https://www.muhammedikbalbakirci.com/blog/sukran-pratigi-ve-dopamin): Günlük şükran ve minnettarlık egzersizlerinin dopamin, serotonin salınımı ve beynin ödül mekanizmaları üzerindeki etkisi.
+- [Tükenmişlik Sendromu: Nedir, Stres Biyolojisiyle İlişkisi ve Çıkış Yolları](https://www.muhammedikbalbakirci.com/blog/tukenmislik-sendromu): Tükenmişlik sendromu nedir, stres biyolojisiyle ilişkisi hakkında neler biliniyor? 'Adrenal yorgunluk' neden geçerli bir tanı değil ve çıkış yolları neler?
+- [Yaşam Amacı Olan İnsanlar Daha Uzun Yaşar mı?](https://www.muhammedikbalbakirci.com/blog/yasam-amaci-ve-longevity): Yaşam amacı (ikigai) daha uzun ve sağlıklı yaşamla ilişkili mi? Ölüm riski, kalp-damar hastalıkları ve iltihap belirteçleri üzerine araştırmalar.
+
+## Skin Longevity
+
+- [Altın İğne (Fraksiyonel Radyofrekans): Kollajen İndüksiyon Tedavisi ve Cilt Yenilenmesi](https://www.muhammedikbalbakirci.com/blog/altin-igne): Mikro iğneleme ve radyofrekans enerjisini birleştiren altın iğne uygulaması nasıl çalışır, hangi durumlarda kullanılır ve olası yan etkileri nelerdir?
+- [Altın İğne ve Eksozom Kombinasyonu: Mantığı, Kanıtlar ve Sınırlar](https://www.muhammedikbalbakirci.com/blog/cilt-genclesmesi-kombinasyon-tedavileri): Altın iğne ve eksozom uygulamalarının cilt sıkılaştırma, kolajen sentezi ve leke görünümü üzerindeki rolü hakkında bilgilendirici rehber.
+- [Botoks Sonrası Dikkat Edilmesi Gerekenler](https://www.muhammedikbalbakirci.com/blog/botoks-sonrasi-dikkat-edilmesi-gerekenler): Botulinum toksini uygulaması sonrasında klinik talimatlara uyum, günlük yaşam ve acil değerlendirme gerektiren belirtiler hakkında genel rehber.
+- [Botulinum Toksin (Botoks): Mimik Kırışıklıklar, Masseter Uygulaması ve Bilinmesi Gerekenler](https://www.muhammedikbalbakirci.com/blog/botoks): Botoks nasıl etki eder, hangi kırışıklıklarda kullanılır, masseter uygulaması ve diş sıkma hakkında kanıtlar ne söylüyor, olası yan etkiler nelerdir?
+- [Cilt Bariyeri Nasıl Güçlendirilir? Hassas Cilt İçin Temel Rutin](https://www.muhammedikbalbakirci.com/blog/cilt-bariyeri-nasil-guclendirilir): Cilt bariyeri ne işe yarar, bozulduğunda hangi belirtiler görülür ve hassas ciltte temizleme ile nemlendirme rutini nasıl sadeleştirilir?
+- [Cilt Mezoterapisi ve Gençlik Aşıları: Nem Aşıları, Somon DNA ve Kanıtlar](https://www.muhammedikbalbakirci.com/blog/mezoterapi): Mezoterapi ve cilt gençlik aşıları (skin booster) nedir, hyaluronik asit ve polinükleotit (somon DNA) uygulamaları hakkında kanıtlar ne söylüyor?
+- [Ciltte Kollajen Kaybı Neden Olur? Görünümü Etkileyen Faktörler](https://www.muhammedikbalbakirci.com/blog/ciltte-kollajen-kaybi): Kollajen ciltte ne işe yarar, yaşla birlikte neden azalır ve cilt görünümünü korumak için kanıta dayalı temel alışkanlıklar nelerdir?
+- [Dermal Dolgu Güvenliği: İşlem Öncesi Kontrol Listesi](https://www.muhammedikbalbakirci.com/blog/dermal-dolgu-guvenligi): Dermal dolgu yaptırmadan önce ürün, uygulayıcı, olası riskler ve işlem sonrası takip için sorulması gereken soruları içeren pratik bir kontrol listesi.
+- [Dermal Dolgu Uygulamaları: Yüz Kontürü, Hacim ve Bilinmesi Gerekenler](https://www.muhammedikbalbakirci.com/blog/dermal-dolgu): Hyaluronik asit dolgular nasıl çalışır, hangi bölgelerde kullanılır, yüz analizi neden önemlidir ve olası riskler nelerdir?
+- [Güneş Kremi Nasıl Seçilir? SPF, Geniş Spektrum ve Doğru Kullanım](https://www.muhammedikbalbakirci.com/blog/gunes-kremi-nasil-secilir): Güneş kremi seçerken SPF, geniş spektrum, suya dayanıklılık ve cilt tipi neden önemli? Doğru miktar, yenileme sıklığı ve sık yapılan hatalar.
+- [PRP mi Eksozom mu? Farkları, Kanıtlar ve Güvenlik](https://www.muhammedikbalbakirci.com/blog/prp-eksozom): PRP ve eksozom nasıl çalışır, aralarındaki fark nedir? Cilt ve saç için kanıtlar ne kadar güçlü, uygulama öncesi hangi sorular sorulmalı? Güncel kaynaklarla.
+- [Retinoid Nedir? Retinol ve Türevlerini Kullanma Rehberi](https://www.muhammedikbalbakirci.com/blog/retinoid-nedir): Retinoid ailesi nedir, retinol ile reçeteli türevlerin farkları nelerdir ve tahriş riskini azaltmak için nasıl başlanır?
+- [Senolitik Tedaviler ve Cilt: "Zombi" Hücreler Hakkında Ne Biliniyor?](https://www.muhammedikbalbakirci.com/blog/senolitik-tedaviler-cilt-genclesmesi-zombi-hucreler): Senesans (zombi) hücreler nedir, topikal senolitiklerle ilgili fare çalışmaları ne gösterdi ve doğal senolitik bileşikler hakkında ne biliniyor?
