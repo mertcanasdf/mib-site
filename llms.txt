@@ -33,13 +33,13 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 - [Aralıklı Orucun Longevity Üzerindeki Etkisi](https://www.muhammedikbalbakirci.com/blog/aralikli-oruc-longevity): Aralıklı oruç nedir, 16:8 gibi protokoller nasıl uygulanır? Metabolik sağlık ve longevity üzerine insan çalışmaları ne gösteriyor, kimler dikkat etmeli?
 - [D3 ve K2 Birlikte Kullanılır mı? Kanıtlar ve Güvenlik](https://www.muhammedikbalbakirci.com/blog/d3-k2-birlikte-kullanilir-mi): D3 ve K2 vitaminleri ne işe yarar, birlikte kullanım hakkında hangi iddialar kanıtlıdır ve kan sulandırıcı kullananlar nelere dikkat etmelidir?
 - [D3 Vitamini Eksikliği: Belirtiler, Kan Düzeyleri ve Yaşlanmayla İlişkisi](https://www.muhammedikbalbakirci.com/blog/d3-vitamini-eksikligi): D vitamini eksikliği neden yaygın, hangi belirtilere yol açabilir, kan düzeyleri nasıl yorumlanır ve takviyeler hakkında kanıtlar ne söylüyor?
-- [İnsülin Direnci Belirtileri: Nasıl Anlaşılır ve Nasıl Değerlendirilir?](https://www.muhammedikbalbakirci.com/blog/insulin-direnci-belirtileri): İnsülin direnci nedir, hangi belirtiler eşlik edebilir, tanı için hangi testler kullanılır ve yaşam tarzı planı nasıl kurulabilir?
+- [İnsülin Direnci Belirtileri: Nasıl Anlaşılır ve Nasıl Değerlendirilir?](https://www.muhammedikbalbakirci.com/blog/insulin-direnci-belirtileri): İnsülin direnci belirtileri, prediyabet farkı ve testlerin anlamı. HbA1c, açlık glukozu ve HOMA-IR yorumunun sınırları; görüşmeye hazırlık.
 - [Lifli Beslenme ve Mikrobiyota: Bağırsak Sağlığı İçin Temel Yaklaşım](https://www.muhammedikbalbakirci.com/blog/lifli-beslenme-ve-mikrobiyota): Lif türleri bağırsak mikrobiyotasını nasıl etkiler, lif tüketimi nasıl kademeli artırılır ve şişkinlik yaşayanlar nelere dikkat etmelidir?
 - [Magnezyum Eksikliği Belirtileri ve Magnezyum Kaynakları](https://www.muhammedikbalbakirci.com/blog/magnezyum-eksikligi): Magnezyum eksikliği hangi belirtilere yol açabilir, kimlerde risk artar, hangi besinlerde magnezyum bulunur ve takviye ne zaman düşünülür?
 - [Mavi Bölge Diyeti: Uzun Yaşayan Toplulukların Beslenme Alışkanlıkları](https://www.muhammedikbalbakirci.com/blog/mavi-bolge-diyeti): Dünyanın beş mavi bölgesinde 100 yıl ve üzeri yaşayan insanların ortak beslenme ilkeleri ve bunları hayatınıza nasıl taşıyabileceğiniz.
 - [Omega-3 Ne İşe Yarar? Besinler, Takviyeler ve Güvenlik](https://www.muhammedikbalbakirci.com/blog/omega-3-ne-ise-yarar): ALA, EPA ve DHA arasındaki farklar, omega-3 kaynakları, takviye seçerken dikkat edilecekler ve kan sulandırıcı kullananlar için uyarılar.
 - [Polifenoller ve Sağlık: Hangi Besinlerde Bulunur?](https://www.muhammedikbalbakirci.com/blog/polifenoller-ve-saglik): Polifenol nedir, hangi bitkisel besinlerde bulunur ve polifenol takviyeleri hakkında kanıtları yorumlarken nelere dikkat etmek gerekir?
-- [Yaşlanmada Protein İhtiyacı: Ne Kadar ve Nasıl Alınır?](https://www.muhammedikbalbakirci.com/blog/protein-ihtiyaci-yaslanma): Yaş ilerledikçe protein alımı neden önem kazanır, öğünlere nasıl dağıtılabilir ve böbrek hastalığında nelere dikkat edilmelidir?
+- [Yaşlanmada Protein İhtiyacı: Ne Kadar ve Nasıl Alınır?](https://www.muhammedikbalbakirci.com/blog/protein-ihtiyaci-yaslanma): Yaşlılarda protein ihtiyacı için kilo başına miktar, örnek hesap ve öğün seçenekleri. Protein tozu, kas kaybı ve böbrek hastalığında sınırlar.
 
 ## Hareket
 
@@ -53,13 +53,14 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 - [Kavrama Gücü Sağlık Hakkında Ne Söyler?](https://www.muhammedikbalbakirci.com/blog/kavrama-gucu-ve-saglik): Kavrama gücü neden ölçülür, hangi durumlarda anlamlıdır ve el dinamometresi sonucunu yaş ve klinik tabloyla birlikte nasıl yorumlamak gerekir?
 - [Kreatin ve Yaşlanma: Kas Gücü İçin Ne Kadar Kanıt Var?](https://www.muhammedikbalbakirci.com/blog/kreatin-ve-yaslanma): Kreatin monohidrat yaşlanmada kas gücü ve antrenmanla nasıl ilişkilidir, hangi kişiler dikkatli olmalı ve ürün seçerken neye bakılmalıdır?
 - [VO₂max ve Longevity: Aerobik Kapasite Neyi Gösterir?](https://www.muhammedikbalbakirci.com/blog/vo2max-ve-longevity): VO₂max nedir, yaşla birlikte neden değişir ve aerobik kapasiteyi güvenli biçimde desteklemek için hangi egzersiz alışkanlıkları önemlidir?
+- [Yaşlılarda Düşmeyi Önleme: Ev Güvenliği Kontrol Listesi](https://www.muhammedikbalbakirci.com/blog/yaslilarda-dusme-onleme-ev-guvenligi): Yaşlılarda düşmeyi önlemek için evde neler değiştirilebilir? Banyo, yatak odası ve merdiven kontrol listesi; ilaç değerlendirmesi ve destek gerektiren durumlar.
 
 ## Uyku
 
 - [Ekran Kullanımı ve Uyku: Telefonu Ne Zaman Bırakmalı?](https://www.muhammedikbalbakirci.com/blog/ekran-kullanimi-ve-uyku): Telefon, tablet ve bilgisayar kullanımı uyku rutinini nasıl etkileyebilir? Mavi ışık, içerik ve bildirimleri birlikte ele alan pratik öneriler.
 - [Glimfatik Sistem: Uyku Sırasında Beyin Nasıl Temizlenir?](https://www.muhammedikbalbakirci.com/blog/uyku-bozukluklari-ve-glymphatic-temizlik): Yetersiz uykunun beynin atık temizleme sistemi (glimfatik sistem) ve büyüme hormonu salınımı üzerindeki etkileri; kaliteli uyku için kanıta dayalı öneriler.
 - [Sirkadiyen Ritim ve Uyku Düzeni Nasıl Desteklenir?](https://www.muhammedikbalbakirci.com/blog/sirkadiyen-ritim-ve-uyku): Sirkadiyen ritim nedir, ışık ve uyku saatleri biyolojik saati nasıl etkiler ve günlük düzeni güçlendirmek için neler yapılabilir?
-- [Uyku Kalitesi Nasıl Artırılır? Uygulanabilir Uyku Hijyeni Rehberi](https://www.muhammedikbalbakirci.com/blog/uyku-kalitesi-nasil-artirilir): Uykuya dalmayı ve uykuyu sürdürmeyi destekleyen alışkanlıklar, yatak odası düzeni ve profesyonel yardım gerektiren belirtiler.
+- [Uyku Kalitesi Nasıl Artırılır? Uygulanabilir Uyku Hijyeni Rehberi](https://www.muhammedikbalbakirci.com/blog/uyku-kalitesi-nasil-artirilir): Uyku kalitesini artırmak için uyku hijyeni, kafein zamanı ve uyku günlüğü önerileri. Gece uyanma ve horlamada ne zaman değerlendirme gerekir?
 
 ## Zihin & Sosyal Yaşam
 
