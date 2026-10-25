@@ -58,7 +58,6 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 ## Hareket
 
 - [Bölge 2 Kardiyo: Uzun Ömürlülük için En İyi Egzersiz mi?](https://www.muhammedikbalbakirci.com/blog/bolge-2-kardiyo): Zone 2 (bölge 2) kardiyo nedir, kalp hızı ve konuşma testiyle nasıl belirlenir? Mitokondri, metabolik sağlık ve HIIT ile karşılaştırma üzerine kanıtlar.
-- [Denge Egzersizleri ve Yaşlanma: Düşme Riskini Azaltmaya Yardımcı Yaklaşım](https://www.muhammedikbalbakirci.com/blog/denge-egzersizleri-yaslanma): Denge neden yaşla değişebilir, evde hangi temel egzersizler yapılabilir ve düşme riski olan kişilerde güvenlik nasıl sağlanır?
 - [Direnç Antrenmanı ve Sağlıklı Yaşlanma](https://www.muhammedikbalbakirci.com/blog/direnc-antrenmani-yaslanma): Direnç egzersizi yaşlanma sürecinde kas gücü, denge ve günlük işlevi nasıl destekler? Başlangıç için güvenli ve sürdürülebilir plan.
 - [Egzersiz Günlüğü Nasıl Tutulur? Süre, Efor ve Toparlanma Takibi](https://www.muhammedikbalbakirci.com/blog/egzersiz-gunlugu-nasil-tutulur): Egzersiz günlüğü nasıl tutulur? Süre, efor ve ertesi gün toparlanmayı kaydeden örnek ve boş tabloyla hareket alışkanlığınızı takip edin.
 - [Egzersiz Sonrası Kas Ağrısı: Ne Zaman Yardım Alınmalı?](https://www.muhammedikbalbakirci.com/blog/egzersiz-sonrasi-kas-agrisi-ne-zaman-basvurulmali): Egzersiz sonrası kas ağrısında şiddetli güçsüzlük, koyu idrar ve yaralanma belirtilerini öğrenin. Yardım alma yönünü seçin; görüşme notunu hazırlayın.
@@ -73,6 +72,7 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 - [Kreatin ve Yaşlanma: Kas Gücü İçin Ne Kadar Kanıt Var?](https://www.muhammedikbalbakirci.com/blog/kreatin-ve-yaslanma): Kreatin monohidrat yaşlanmada kas gücü ve antrenmanla nasıl ilişkilidir, hangi kişiler dikkatli olmalı ve ürün seçerken neye bakılmalıdır?
 - [Masa Başında Hareket Molası: İş Akışına Uyan Bir Plan](https://www.muhammedikbalbakirci.com/blog/masa-basinda-hareket-molasi): Masa başında hareket molasını iş akışınıza ekleyin. Toplantı, telefon ve görev geçişleri için seçenekleri, deneme tablosunu, kanıt sınırlarını okuyun.
 - [VO₂max ve Longevity: Aerobik Kapasite Neyi Gösterir?](https://www.muhammedikbalbakirci.com/blog/vo2max-ve-longevity): VO₂max nedir, yaşla birlikte neden değişir ve aerobik kapasiteyi güvenli biçimde desteklemek için hangi egzersiz alışkanlıkları önemlidir?
+- [Yaşlılarda Denge Egzersizleri: Evde Güvenli Hareketler ve Kanıtlar](https://www.muhammedikbalbakirci.com/blog/denge-egzersizleri-yaslanma): Yaşlılarda denge egzersizleri nasıl yapılır? Tek ayak duruşu, topuk-parmak yürüyüşü ve tai chi; destek alma kuralları ve düşmeyle ilgili kanıtlar.
 - [Yaşlılarda Düşmeyi Önleme: Ev Güvenliği Kontrol Listesi](https://www.muhammedikbalbakirci.com/blog/yaslilarda-dusme-onleme-ev-guvenligi): Yaşlılarda düşmeyi önlemek için evde neler değiştirilebilir? Banyo, yatak odası ve merdiven kontrol listesi; ilaç değerlendirmesi ve destek gerektiren durumlar.
 
 ## Uyku
