@@ -29,7 +29,7 @@ Her makalenin sonunda "Kaynaklar" bölümü bulunur (PubMed, Cochrane, FDA, AAD,
 - [Sağlık Araştırmaları Nasıl Okunur? Longevity Haberlerine 8 Soru](https://www.muhammedikbalbakirci.com/blog/saglik-arastirmalari-nasil-okunur): Sağlık araştırmalarını çalışma türü, katılımcı ve sonuç ölçütüyle değerlendirin. Longevity haberlerini okumak için sekiz soruluk kontrol listesini kullanın.
 - [Sağlıklı Yaşam Süresi (Healthspan) Nedir? Nasıl İzlenir?](https://www.muhammedikbalbakirci.com/blog/saglikli-yasam-suresi-healthspan-nedir): Sağlıklı yaşam süresi ile toplam ömür arasındaki farkı öğrenin. Günlük işlev, çevre desteği ve hekim görüşmesi için takip tablosunu inceleyin.
 - [SIRT6 Proteini ve Epigenetik Yaşlanma: 2026 Fare Çalışması Ne Gösterdi?](https://www.muhammedikbalbakirci.com/blog/sirt6-proteini-epigenetik-genclesme): SIRT6 nedir? 2026'da yayımlanan fare çalışmasında SIRT6'yı artırmak yaşlı karaciğerde neyi değiştirdi; bulgular insanlar için ne anlama geliyor?
-- [Telomer Sağlığını Destekleyen 7 Yaşam Tarzı Alışkanlığı](https://www.muhammedikbalbakirci.com/blog/telomerleri-korumak): Kromozom uçlarındaki telomerlerin kısalma hızı yaşam tarzı faktörleriyle ilişkilidir; araştırmalarda telomer sağlığıyla ilişkilendirilen 7 alışkanlık.
+- [Telomer Nedir, Neden Kısalır? Telomer Sağlığıyla İlişkili 7 Alışkanlık](https://www.muhammedikbalbakirci.com/blog/telomerleri-korumak): Telomer nedir, neden kısalır, uzatılabilir mi? Telomer testinin sınırları ve stres, egzersiz, beslenme gibi 7 alışkanlığın kanıt düzeyi tek yazıda.
 
 ## Beslenme
 
